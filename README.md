@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋 I'm Michael,
+I am passionate about building solutions to the problems people face on a daily basis. I'm a good team player, leader and a fast learner.
 
-<!--
-**Leac1m/Leac1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I do
+I create magic by combining technical and critical thinking skills; building scalable and performant backend
 
+My current stack:
+Backend (Django)
+DevOps (Git & GitHub, AWS)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m learning about new technologies.
+🌱 I’m currently learning API development.
+👯 I’m looking to collaborate with my fellow tech enthusiasts.
+📫 How to reach me: obemichael10@gmail.com
+😄 Pronouns: He/Him
