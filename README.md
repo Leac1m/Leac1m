@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with my fellow tech enthusiasts.
 - 📫 How to reach me: obemichael10@gmail.com
 - 😄 Pronouns: He/Him
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leac1m)](https://github.com/anuraghazra/github-readme-stats)
